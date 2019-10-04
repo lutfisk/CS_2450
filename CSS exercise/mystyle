@@ -1,0 +1,40 @@
+.root{
+    -fx-background-color: #282828;
+    -fx-font-weight: 600;
+}
+
+.label{
+    -fx-font-size: 14pt;
+    -fx-text-fill: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+
+.button{
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+    -fx-background-color: #BA8BAF;
+    -fx-text-fill: "#191919";
+}
+
+.button:hover
+{
+-fx-background-color: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+-fx-font-weight: bold;
+-fx-text-fill: "#0c0c0c";
+}
+
+.choice-box{
+    -fx-background-color: #585858;
+    -fx-font-weight: bold;
+}
+
+.text-field{
+    -fx-background-color: #585858;
+    -fx-font-weight: bold;
+    -fx-text-fill: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+
+.text-field:focused {
+    -fx-background-color: #585858;
+    -fx-font-weight: bold;
+    -fx-text-fill: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
