@@ -1,0 +1,20 @@
+.root{
+  -fx-background-color: linear-gradient(#780f0f, #5e0606);
+}
+
+.label{
+    -fx-text-fill: #dcc312;
+}
+
+#label-rulesTitle{
+    -fx-font-size: 25px;
+    -fx-text-fill: #dcc312;
+    -fx-font-family: Broadway;
+    -fx-font-weight: bold;
+}
+
+.button{
+    -fx-pref-width: 100;
+    -fx-font-weight: bold;
+    -fx-background-color: #c2c1be;
+}

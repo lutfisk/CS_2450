@@ -1,0 +1,15 @@
+.root{
+  -fx-background-color: #1b7514;
+}
+
+.label{
+     -fx-font-size: 20px;
+     -fx-text-fill: #dcc312;
+     -fx-font-family: Broadway;
+ }
+
+.button{
+    -fx-pref-width: 100;
+    -fx-font-weight: bold;
+    -fx-background-color: #c2c1be;
+}
